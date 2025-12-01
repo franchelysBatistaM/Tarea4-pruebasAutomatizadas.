@@ -1,0 +1,32 @@
+body {
+    background-color: #b395b6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2, h3 {
+    color: #910487;
+}
+
+.container {
+    max-width: 800px;
+}
+
+input.form-control {
+    border-radius: 5px;
+    border: 1px solid #bc9db5;
+    padding: 10px;
+}
+
+.btn-primary, .btn-success, .btn-danger, .btn-secondary {
+    border-radius: 5px;
+}
+
+.alert {
+    font-size: 0.9rem;
+}
+
+table.table {
+    background-color: rgb(195, 186, 191);
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(216, 207, 207, 0.1);
+}
